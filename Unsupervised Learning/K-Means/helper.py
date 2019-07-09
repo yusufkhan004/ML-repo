@@ -56,7 +56,7 @@ def get_genre_ratings(ratings, movies, genres, column_names):
         
         genre_ratings = pd.concat([genre_ratings, avg_genre_votes_per_user], axis=1)
         
-    print(genre_ratings)
+    # print(genre_ratings)
     genre_ratings.columns = column_names
     return genre_ratings
     
