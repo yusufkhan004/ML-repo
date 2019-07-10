@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/macos,python,jupyternotebook,visualstudiocode,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=macos,python,jupyternotebook,visualstudiocode,jupyternotebooks
 
+**/ignore/
+
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
