@@ -1,2 +1,2 @@
 # Machine_Learning
-Machine Learning HandsOn!
+This repository contains different types of machine learning based projects
